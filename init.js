@@ -1,3 +1,3 @@
 var isInit = true;
 var mySecret="adsfadsf";
-var myothersecret="";
+var myothersecret="ads";
